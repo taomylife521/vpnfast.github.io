@@ -2,7 +2,7 @@
 
 ![翻墙](https://overwallvpn.com/wp-content/uploads/2024/08/the-great-firewall-of-china.jpg)
 
-`2026年04月11日`
+`2026年05月13日`
 
 写这篇文章是因为我自己买过翻墙VPN被坑过，所以想做一篇**翻墙软件扫盲帖**，帮新手少走弯路。顺便也结合当下最新情况，整理了一些还算好用的中国VPN梯子，只要掌握了科学上网软件，翻墙小白都可以借助好用的VPN实现正常访问ChatGPT、Google、YouTube、Twitter、Netflix等海外常用平台。
 
