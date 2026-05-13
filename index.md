@@ -28,18 +28,7 @@
     </div>
   </div>
 
-  <div style="display:flex;gap:22px;align-items:flex-start;padding:24px;margin-bottom:24px;border:1px solid #e5e7eb;border-radius:14px;background:#ffffff;">
-    <div style="width:58px;height:58px;border-radius:14px;background:linear-gradient(135deg,#16a34a,#86efac);display:flex;align-items:center;justify-content:center;color:#fff;font-size:30px;flex-shrink:0;">
-      ✅
-    </div>
-    <div style="border-left:2px solid #d1d5db;padding-left:22px;">
-      <p style="margin:0;">
-        据我所知，虽然很多中国技术宅自己搭梯子翻墙，但是到目前为止付费VPN依旧是我比较推荐的VPN主力军。而且大多数个人用户都会倾向更省事的翻墙方式，毕竟商业大牌VPN都可以一键连接，懒得自己折腾。
-        相对于免费VPN或自建梯子来说，
-        <strong style="color:#16a34a;">付费VPN稳定得多，而且没有带宽和下载速度限制</strong>，这点非常爽。最关键的一点是，由于“墙”的升级，免费中国VPN和个人翻墙节点搭建越来越不稳定，到后期可能完全没法用。
-      </p>
-    </div>
-  </div>
+据我所知，虽然很多中国技术宅自己搭梯子翻墙，但是到目前为止付费VPN依旧是我比较推荐的VPN主力军。而且大多数个人用户都会倾向更省事的翻墙方式，毕竟商业大牌VPN都可以一键连接，懒得自己折腾。相对于免费VPN或自建梯子来说，**付费VPN稳定得多，而且没有带宽和下载速度限制**，这点非常爽。最关键的一点是，由于“墙”的升级，免费中国VPN和个人翻墙节点搭建越来越不稳定，到后期可能完全没法用。
 
   <div style="display:flex;gap:22px;align-items:flex-start;padding:24px;border:1px solid #fed7aa;border-radius:14px;background:#fffaf3;">
     <div style="width:58px;height:58px;border-radius:14px;background:linear-gradient(135deg,#f97316,#fbbf24);display:flex;align-items:center;justify-content:center;color:#fff;font-size:30px;flex-shrink:0;">
