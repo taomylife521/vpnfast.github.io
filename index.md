@@ -4,7 +4,7 @@
 
 ![翻墙工具](https://overwallvpn.com/wp-content/uploads/2026/05/what-vpns-are-best-in-china.jpg)
 
-<div style="max-width:1000px;margin:30px auto;padding:28px;background:#ffffff;border-radius:16px;box-shadow:0 8px 28px rgba(0,0,0,0.08);font-family:Arial,'Microsoft YaHei',sans-serif;color:#1f2937;line-height:2;font-size:17px;">
+<div style="max-width:1000px;margin:30px auto;padding:28px;background:#ffffff;border-radius:16px;box-shadow:0 8px 28px rgba(0,0,0,0.08);color:#1f2937;">
 
   <div style="border-left:5px solid #2563eb;padding-left:22px;margin-bottom:28px;">
     <p style="margin:0;">
