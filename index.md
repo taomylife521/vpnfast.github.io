@@ -28,7 +28,7 @@
     </div>
   </div>
 
-据我所知，虽然很多中国技术宅自己搭梯子翻墙，但是到目前为止付费VPN依旧是我比较推荐的VPN主力军。而且大多数个人用户都会倾向更省事的翻墙方式，毕竟商业大牌VPN都可以一键连接，懒得自己折腾。相对于免费VPN或自建梯子来说，<strong style="color:#111827;">付费VPN稳定得多，而且没有带宽和下载速度限制</strong>，这点非常爽。最关键的一点是，由于“墙”的升级，免费中国VPN和个人翻墙节点搭建越来越不稳定，到后期可能完全没法用。
+据我所知，虽然很多中国技术宅自己搭梯子翻墙，但是到目前为止付费VPN依旧是我比较推荐的VPN主力军。而且大多数个人用户都会倾向更省事的翻墙方式，毕竟商业大牌VPN都可以一键连接，懒得自己折腾。相对于免费VPN或自建梯子来说，<strong style="color:#111827;">付费VPN稳定得多，而且没有带宽和下载速度限制</strong>，这点非常爽。最关键的一点是，由于“墙”的升级，免费中国VPN和个人翻墙节点搭建越来越不稳定，到后期可能完全没法用。<br/>
 
   <div style="display:flex;gap:22px;align-items:flex-start;padding:24px;border:1px solid #fed7aa;border-radius:14px;background:#fffaf3;">
     <div style="width:58px;height:58px;border-radius:14px;background:linear-gradient(135deg,#f97316,#fbbf24);display:flex;align-items:center;justify-content:center;color:#fff;font-size:30px;flex-shrink:0;">
@@ -117,6 +117,16 @@
 
 > - 免费试用30天：中国用户可以直接在StrongVPN官网购买，30天内使用免费，这等于是说用户可以零成本使用30天。
 > - 如果你不满意，只需联系官方客服申请退款，亲测退款无障碍，真正做到“零风险试用”。
+
+总结一下目前中国还能用的VPN，以下是推荐列表：
+
+| 	VPN推荐                                                              | 中国稳定性 | 速度表现 | 优惠价格           | 适合人群              |
+| --------------------------------------------------------------- | ----- | ---- | --------------- | ----------------- |
+| [StrongVPN](https://overwallvpn.com/go/strongvpn)       | 很稳定   | 快    | 价格便宜，经常有长期套餐优惠  | 想稳定翻墙、预算有限、长期使用用户 |
+| [ExpressVPN](https://overwallvpn.com/go/expressvpn) | 非常稳定  | 很快   | 价格较贵，但偶尔有赠送月份活动 | 对稳定性要求最高的新手用户     |
+| [Surfshark](https://overwallvpn.com/go/surfshark)       | 较稳定   | 非常快  | 性价比高，价格低        | 学生党、多人共享、家庭用户     |
+| [PrivateVPN](https://overwallvpn.com/go/privatevpn)     | 中等    | 中等偏快 | 偶尔折扣较大          | 小众用户、备用 VPN       |
+| [PureVPN](https://overwallvpn.com/go/purevpn)       | 一般    | 中等   | 经常低价促销          | 轻度翻墙、低预算用户        |
 
 ### **💡亲情小提示：在中国如何顺利购买VPN？**
 
