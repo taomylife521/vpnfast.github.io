@@ -124,9 +124,9 @@
 | --------------------------------------------------------------- | ----- | ---- | --------------- | ----------------- |
 | [StrongVPN](https://overwallvpn.com/go/strongvpn)       | 很稳定   | 快    | 价格便宜，经常有长期套餐优惠  | 想稳定翻墙、预算有限、长期使用用户 |
 | [ExpressVPN](https://overwallvpn.com/go/expressvpn) | 非常稳定  | 很快   | 价格较贵，但偶尔有赠送月份活动 | 对稳定性要求最高的新手用户     |
-| [Surfshark](https://overwallvpn.com/go/surfshark)       | 较稳定   | 非常快  | 性价比高，价格低        | 学生党、多人共享、家庭用户     |
-| [PrivateVPN](https://overwallvpn.com/go/privatevpn)     | 中等    | 中等偏快 | 偶尔折扣较大          | 小众用户、备用 VPN       |
-| [PureVPN](https://overwallvpn.com/go/purevpn)       | 一般    | 中等   | 经常低价促销          | 轻度翻墙、低预算用户        |
+| [PureVPN](https://overwallvpn.com/go/purevpn)       | 较稳定   | 非常快  | 性价比高，价格低        | 学生党、多人共享、家庭用户     |
+| [Surfshark](https://overwallvpn.com/go/surfshark)     | 中等    | 中等偏快 | 偶尔折扣较大          | 小众用户、备用 VPN       |
+| [PrivateVPN](https://overwallvpn.com/go/privatevpn)       | 一般    | 中等   | 经常低价促销          | 轻度翻墙、低预算用户        |
 
 ### **💡亲情小提示：在中国如何顺利购买VPN？**
 
