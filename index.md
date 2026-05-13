@@ -57,7 +57,12 @@
 > - 设备兼容性：多设备兼容，可直连Windows、macOS、iOS、Android、路由器
 > - 价格与优惠：$3.97/月，年付套餐赠送3个月免费使用
 
-<a href="https://overwallvpn.com/go/strongvpn" style="display:inline-block;padding:12px 24px;background:#4f46e5;color:white;text-decoration:none;border-radius:8px;font-size:16px;">StrongVPN免费30天</a>
+<div style="text-align:center;margin:20px 0;">
+  <a href="https://overwallvpn.com/go/strongvpn" 
+     style="display:inline-block;padding:12px 24px;background:#4f46e5;color:white;text-decoration:none;border-radius:8px;font-size:16px;">
+     StrongVPN免费30天
+  </a>
+</div>
 
 ---
 
@@ -71,7 +76,12 @@
 > - 客服支持：良好的售后支持，客服7×24小时全天候在线
 > - 价格与优惠：两年计划赠送4个月免费使用，算下来价格$3.49/月，同样包含30天退款政策
 
-<a href="https://overwallvpn.com/go/expressvpn" style="display:inline-block;padding:12px 24px;background:#4f46e5;color:white;text-decoration:none;border-radius:8px;font-size:16px;">ExpressVPN八折优惠</a>
+<div style="text-align:center;margin:20px 0;">
+  <a href="https://overwallvpn.com/go/expressvpn" 
+     style="display:inline-block;padding:12px 24px;background:#4f46e5;color:white;text-decoration:none;border-radius:8px;font-size:16px;">
+     ExpressVPN八折优惠
+  </a>
+</div>
 
 ---
 
@@ -85,7 +95,12 @@
 > - 设备兼容性：支持最多10台设备同时连接
 > - 价格与优惠：超值，价格最低$1.99/月，31天退款保障
 
-<a href="https://overwallvpn.com/go/purevpn" style="display:inline-block;padding:12px 24px;background:#4f46e5;color:white;text-decoration:none;border-radius:8px;font-size:16px;">PureVPN超值优惠</a>
+<div style="text-align:center;margin:20px 0;">
+  <a href="https://overwallvpn.com/go/purevpn" 
+     style="display:inline-block;padding:12px 24px;background:#4f46e5;color:white;text-decoration:none;border-radius:8px;font-size:16px;">
+     PureVPN超值优惠
+  </a>
+</div>
 
 ---
 
