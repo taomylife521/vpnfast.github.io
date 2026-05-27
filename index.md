@@ -89,7 +89,7 @@
 <div style="text-align:center;margin:20px 0;">
   <a href="https://overwallvpn.com/go/strongvpn" 
      style="display:inline-block;padding:12px 24px;background:#4f46e5;color:white;text-decoration:none;border-radius:8px;font-size:16px;">
-     StrongVPN(强烈推荐)
+     StrongVPN(首选)
   </a>
 </div>
 
