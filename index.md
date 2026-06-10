@@ -1,4 +1,4 @@
-# 2026年中国VPN推荐，目前还能稳定好用的翻墙软件实测
+# 2026年中国VPN推荐，目前还能稳定好用的VPN翻墙软件实测
 
 ![翻墙工具](https://overwallvpn.com/wp-content/uploads/2026/05/what-vpns-are-best-in-china.jpg)
 
